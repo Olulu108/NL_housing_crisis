@@ -10,38 +10,38 @@ This project is inspired by the ongoing housing crisis in the Netherlands. Our g
 
 We began by investigating whether the rising number of immigrants influences house prices. The first two graphs indicate that both house prices and the number of immigrants have been increasing over the years. 
 
-![image_url](https://github.com/Olulu108/NL_housing_crisis/blob/main/images/1_house%20price_migration.jpg)
+![image_url](https://github.com/Olulu108/housing-crisis-in-the-netherlands/blob/main/images/1_house%20price_migration.jpg)
 
 However, when examining the percentage of immigrants within the total population, we see that it remains relatively stable over time.
 
-![image_url](https://github.com/Olulu108/NL_housing_crisis/blob/main/images/2_background_pop%20across%20country.jpg)
+![image_url](https://github.com/Olulu108/housing-crisis-in-the-netherlands/blob/main/images/2_background_pop%20across%20country.jpg)
 
 ### 2. Case Study: The Hague
 
 To explore this topic further, we focused on cities with a high percentage of immigrants, including Amsterdam, Rotterdam, and Utrecht. We selected The Hague for a closer examination.
 
-![image_url](https://github.com/Olulu108/NL_housing_crisis/blob/main/images/4_background%20graph.jpg)
+![image_url](https://github.com/Olulu108/housing-crisis-in-the-netherlands/blob/main/images/4_background%20graph.jpg)
 
 #### Neighborhood Analysis
 
 The neighborhoods in The Hague are categorized based on the proportion of Dutch-born residents (left) versus people born outside the Netherlands (right).
 
-![image_url](https://github.com/Olulu108/NL_housing_crisis/blob/main/images/5_neighbourhoods%20background.jpg)
+![image_url](https://github.com/Olulu108/housing-crisis-in-the-netherlands/blob/main/images/5_neighbourhoods%20background.jpg)
 
 In areas with a higher percentage of people born outside the Netherlands, most residents live in rented houses. In contrast, neighborhoods with a majority of Dutch-born residents have higher homeownership rates.
 
-![image_url](https://github.com/Olulu108/NL_housing_crisis/blob/main/images/6_rented_vs_owned_neigh.jpg)
+![image_url](https://github.com/Olulu108/housing-crisis-in-the-netherlands/blob/main/images/6_rented_vs_owned_neigh.jpg)
 
 Additionally, houses in neighborhoods with a dominant Dutch-born population tend to be more expensive.
 
-![image_url](https://github.com/Olulu108/NL_housing_crisis/blob/main/images/7_house%20value.jpg)
+![image_url](https://github.com/Olulu108/housing-crisis-in-the-netherlands/blob/main/images/7_house%20value.jpg)
 
 #### Housing Price Trends
 
 A graph comparing price fluctuations over the years. Orange represents areas with a dominant Dutch-born population. Green represents neighborhoods with a high proportion of immigrants.
 The price rise and fluctuation are more significant in neighborhoods with a majority of Dutch-born people.
 
-![image_url](https://github.com/Olulu108/NL_housing_crisis/blob/main/images/8_house%20price%20change.jpg)
+![image_url](https://github.com/Olulu108/housing-crisis-in-the-netherlands/blob/main/images/8_house%20price%20change.jpg)
 
 This analysis suggests that the rising number of immigrants does not drive house price increases. Instead, prices in areas with a high proportion of people born outside the Netherlands remain relatively stable and low.
 
@@ -59,7 +59,7 @@ Our findings challenge the assumption that immigration directly impacts rising h
 
 1. Clone the repository:
 
-git clone https://github.com/yourusername/housing-crisis-nl.git
+git clone https://github.com/Olulu108/housing-crisis-in-the-netherlands.git
 
 2. Navigate to the project folder:
 
