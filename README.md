@@ -2,17 +2,17 @@
 
 ## Project Overview
 
-This project is inspired by the ongoing housing crisis in the Netherlands. Our goal is to analyze various factors contributing to the crisis and share key findings. A significant part of our research focuses on the impact of immigration on house prices.
+This project investigates the ongoing housing crisis in the Netherlands. The primary objective is to identify structural and socioeconomic drivers behind the shortage of affordable housing. In addition to analyzing supply and demand trends, the study examines the potential correlation between immigration and housing prices.
 
 ## Key Findings
 
-### 1. Discovering shortage
+### 1. Understanding the Shortage
 
-The housing crisis in the Netherlands has been widely acknowledged by various entities, including the United Nations and public opinion. According to research agency ABF, the housing shortage is estimated at approximately 401,000 homes in 2024. The aim of this analysis is to identify the specific characteristics of the housing crisis in the Netherlands.
+The housing crisis in the Netherlands is a widely recognized issue, acknowledged by institutions like the United Nations and reinforced by national public discourse. According to research agency ABF, the housing shortage is estimated at approximately 401,000 homes in 2024. 
 
 ![image_url](https://github.com/Olulu108/housing-crisis-in-the-netherlands/blob/main/graphs/10_inhabitants%20-%20housing%20numbers.jpg)
 
-Housing shortage can be seen through the imbalance between housing supply and demand. A high population relative to the number of homes could indicate a shortage. However, between 2004 and 2024, the number of residents increased by nearly 1.6 million, while the number of housing units grew by 1.4 million. Theoretically, this provides housing for approximately 1.14 people per new home. Given that the average household size in 2024 is 2.25 people, this suggests that housing construction has outpaced population growth.
+Housing shortage can be seen through the imbalance between housing supply and demand. A high population relative to the number of homes could indicate a shortage. Between 2004 and 2024, the number of residents increased by nearly 1.6 million, while the number of housing units grew by 1.4 million. Theoretically, this provides housing for approximately 1.14 people per new home. Given that the average household size in 2024 is 2.25 people, this suggests that housing construction has outpaced population growth.
 
 ![image_url](https://github.com/Olulu108/housing-crisis-in-the-netherlands/blob/main/graphs/11_inhabitants%20per%20home.jpg)
 
@@ -45,7 +45,7 @@ Although affordability—measured by the price-to-income ratio—has significant
 
 ### 2. Immigration and House Prices
 
-We began by investigating whether the rising number of immigrants influences house prices. The first two graphs indicate that both house prices and the number of immigrants have been increasing over the years. 
+We continued by investigating whether the rising number of immigrants influences house prices. The first two graphs indicate that both house prices and the number of immigrants have been increasing over the years. 
 
 ![image_url](https://github.com/Olulu108/housing-crisis-in-the-netherlands/blob/main/graphs/1_house%20price_migration.jpg)
 
@@ -75,8 +75,7 @@ Additionally, houses in neighborhoods with a dominant Dutch-born population tend
 
 #### Housing Price Trends
 
-A graph comparing price fluctuations over the years. Orange represents areas with a dominant Dutch-born population. Green represents neighborhoods with a high proportion of immigrants.
-The price rise and fluctuation are more significant in neighborhoods with a majority of Dutch-born people.
+A graph comparing price fluctuations over the years. Orange represents areas with a dominant Dutch-born population. Green represents neighborhoods with a high proportion of immigrants.The price rise and fluctuation are more significant in neighborhoods with a majority of Dutch-born people.
 
 ![image_url](https://github.com/Olulu108/housing-crisis-in-the-netherlands/blob/main/graphs/8_house%20price%20change.jpg)
 
@@ -84,7 +83,9 @@ This analysis suggests that the rising number of immigrants does not drive house
 
 ## Conclusion
 
-Our findings challenge the assumption that immigration directly impacts rising house prices. Instead, ownership patterns and demographic compositions appear to play a more significant role in shaping the housing market.
+- The **housing shortage** is driven primarily by **shifting household structures**, not just raw population growth.
+- Despite worsening affordability, **homeownership persists**, pointing to cultural and financial factors.
+- immigration is not a primary driver of rising house prices. In fact, neighborhoods with a higher proportion of foreign-born residents tend to exhibit more stable and lower housing prices
 
 ## Repository Structure
 - `data/` - Contains datasets.
