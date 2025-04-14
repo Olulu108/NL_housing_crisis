@@ -105,11 +105,3 @@ cd housing-crisis-nl
 
 3. Explore the data and findings through Jupyter notebooks or graphs.
 
-## Contributors
-
-[Olga Pershina, Lea Lamberti, Helene Lang, Gabriela Villarreal]
-
-## License
-
-This project is licensed under the MIT License.
-
