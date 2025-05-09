@@ -1,4 +1,4 @@
-# Analysing Housing Crisis in the Netherlands
+# Housing Crisis in the Netherlands
 
 ## Project Overview
 
